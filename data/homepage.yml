@@ -73,7 +73,7 @@ education:
 
 # service
 service:
-  enable : true
+  enable : false
   title : "What Can I Help You With?"
   item:
     - title : "Photography"

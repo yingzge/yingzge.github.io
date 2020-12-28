@@ -95,3 +95,6 @@ icon = "ti-dribbble"
 [[params.social]]
 URL = "#"
 icon = "ti-twitter-alt"
+
+[markup.goldmark.renderer]
+unsafe = true
