@@ -8,6 +8,9 @@
       <div class="row">
         {{ range .Data.Pages }}
         {{ .Render "post" }}
+        <script async defer data-pin-hover="true" 
+        data-pin-tall="true" 
+        src="//assets.pinterest.com/js/pinit.js"></script>
         {{ end }}
       </div>
     </div>
