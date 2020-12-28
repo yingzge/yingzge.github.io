@@ -1,12 +1,12 @@
 # portfolio item
 item:
-  - image : "images/portfolio/item-1.png"
+  - image : "images/portfolio/item-1.png" 
     project_url : "http://examplesite.com"
     category: "design"
       
   - image : "images/portfolio/item-2.png"
     project_url : "#"
-    category: "branding"
+    category: "Photography"
       
   - image : "images/portfolio/item-3.png"
     project_url : "http://examplesite.com"
@@ -26,7 +26,7 @@ item:
       
   - image : "images/portfolio/item-1.png"
     project_url : "http://examplesite.com"
-    category: "branding"
+    category: "Photography"
       
   - image : "images/portfolio/item-3.png"
     project_url : "#"
