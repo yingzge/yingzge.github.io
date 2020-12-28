@@ -14,5 +14,10 @@ fields:
 - type: text
   name: description
   label: description
+- name: Blog_tags
+  type: tag_list
+  default: []
+  label: Tags
+  hidden: false
 pages:
 - content/blog/meemaw.md
