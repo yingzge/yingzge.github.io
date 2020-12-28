@@ -4,7 +4,6 @@ languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "Kross | Hugo Portfolio Template"
-publishDir = "docs"
 
 # css plugins
 [[params.plugins.css]]
