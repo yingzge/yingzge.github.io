@@ -441,6 +441,7 @@ textarea.form-control {
 }
 
 .navbar .nav-item .nav-link {
+  color: #000;
   font-family: bwnistaint-xbd;
   text-transform: uppercase;
   padding: 15px
@@ -451,8 +452,9 @@ textarea.form-control {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-  color: #fff
+  color: #000000
 }
+
 
 .hero-area {
   padding: 250px 0 200px;
@@ -695,7 +697,7 @@ textarea.form-control {
 }
 
 .footer-section {
-  padding-top: 200px
+  padding-top: 10px
 }
 
 .section-on-footer {

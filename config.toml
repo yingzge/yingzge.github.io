@@ -46,10 +46,10 @@ URL = "portfolio"
 name = "Portfolio"
 weight = 4
 
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 5
+# [[menu.main]]
+# URL = "contact"
+# name = "Contact"
+# weight = 5
 
 
 # default parameters
@@ -57,7 +57,7 @@ weight = 5
 home = "Home"
 logo = "images/Ying Doodle.png"
 # theme color
-theme_color = "#ffb8d4"
+theme_color = "#ffccda"
 email = "me@yinzge.com"
 # meta description
 author = "Ying Ge"
@@ -70,9 +70,9 @@ copyright = "&copy; Ying Ge, 2020"
 
 
 # contact
-[params.contact]
-enable = true
-form_action = "#" # contact form works with : https://formspree.io
+# [params.contact]
+# enable = true
+# form_action = "#" # contact form works with : https://formspree.io
 
 # preloader
 [params.preloader]
